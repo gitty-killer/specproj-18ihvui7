@@ -1,0 +1,6 @@
+{
+  ""name"": ""specproj-18ihvui7"",
+  ""goal"": ""ETL pipeline for release monitoring"",
+  ""language"": ""node"",
+  ""template"": ""node-cli""
+}
